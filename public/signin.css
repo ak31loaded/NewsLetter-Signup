@@ -1,0 +1,41 @@
+.btn-color{
+    background-color: #0e1c36;
+    color: #fff;
+    
+  }
+  
+  .profile-image-pic{
+    height: 200px;
+    width: 200px;
+    object-fit: cover;
+  }
+
+  
+  
+  .cardbody-color{
+    background-color: #ebf2fa;
+  }
+  
+  a{
+    text-decoration: none;
+  }
+
+  footer{
+    text-align: center;
+    color: #808388;
+    size: 3px;
+  }
+  div.success
+  {
+    background-color: lightblue;
+    text-align: center;
+    margin: 120px 200px;
+    padding: 4px;
+  }
+  .successs
+  {
+    
+    text-align: center;
+    margin: 10px;
+    size: 50px;
+  }
